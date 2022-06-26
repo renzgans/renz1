@@ -171,7 +171,7 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
                         hydratedTemplate: {
                             imageMessage: message.imageMessage,
                             hydratedContentText: text.trim(),
-                            hydratedFooterText:'Created by | Gempy',
+                            hydratedFooterText:'Ⓟ premium | Ⓛ limit',
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'Website',
